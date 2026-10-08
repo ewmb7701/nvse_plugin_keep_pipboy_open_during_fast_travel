@@ -1,0 +1,13 @@
+{
+  "C_Cpp.default.configurationWarnings": "enabled",
+  "C_Cpp.errorSquiggles": "enabled",
+  "files.associations": {
+    "*.def": "cpp",
+    "*.inc": "cpp"
+  },
+  "files.exclude": {
+    "**/.vs": true,
+    "**/Debug": true,
+    "**/Release": true
+  }
+}
